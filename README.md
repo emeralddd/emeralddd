@@ -9,7 +9,7 @@
 ### Wheat Discord Bot 
 tarot, zodiac, numerology*comming soon*
 
-more details: <a href ="https://top.gg/bot/786234973308715008"><img alt="Wheat" src="https://images.discordapp.net/avatars/786234973308715008/b5188876273d8dc038739833a2e90629.png?size=128" width='30px'></a>
+more details: <a href ="https://top.gg/bot/786234973308715008"><img alt="Wheat" src="https://i.imgur.com/o31SePR.png" width='20px'></a>
 
 invite: https://top.gg/bot/786234973308715008/invite/
 
