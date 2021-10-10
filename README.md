@@ -13,7 +13,9 @@ more details: <a href ="https://top.gg/bot/786234973308715008"><img alt="Wheat" 
 
 invite: https://top.gg/bot/786234973308715008/invite/
 
-### VNC full time bot developer
+### founder of EMERALD UNIVERSE ###
+
+### VNC bot developer
 join with us: https://discord.gg/vietnamesecommunity
 
-**VC | emerald  💎#2843**, call me when you want
+**VC | emerald  💎#9999**, call me when you want
