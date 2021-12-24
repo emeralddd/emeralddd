@@ -1,5 +1,5 @@
 ## สวัสดีครับทุกคน
-<img src="https://emojis.slackmojis.com/emojis/images/1597609813/10031/60fps_parrot.gif?1597609813" width="30"/> ... i'm just a normal individual develoer ...
+<img src="https://emojis.slackmojis.com/emojis/images/1597609813/10031/60fps_parrot.gif?1597609813" width="30"/> ... i'm just a normal individual developer ...
 
 ### check out some specific languages?
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -20,3 +20,5 @@ invite: https://top.gg/bot/786234973308715008/invite/
 join with us: https://discord.gg/xgTv5yyweC
 
 **temeralddd#1385**, call me when you want
+
+tks, psymerald
