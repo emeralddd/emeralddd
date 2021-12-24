@@ -7,7 +7,8 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 ### Wheat Discord Bot 
-tarot, zodiac, numerology*comming soon*
+tarot, zodiac, numerology *comming soon*
+support server: https://discord.gg/z5Z4uzmED9
 
 more details: <a href ="https://top.gg/bot/786234973308715008"><img alt="Wheat" src="https://i.imgur.com/o31SePR.png" width='20px'></a>
 
@@ -16,6 +17,6 @@ invite: https://top.gg/bot/786234973308715008/invite/
 ### founder of EMERALD UNIVERSE ###
 
 ### VNC bot developer
-join with us: https://discord.gg/vietnamesecommunity
+join with us: https://discord.gg/xgTv5yyweC
 
-**VC | emerald  💎#9999**, call me when you want
+**temeralddd#1385**, call me when you want
