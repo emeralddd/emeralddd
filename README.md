@@ -7,7 +7,8 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 ### Wheat Discord Bot 
-tarot, zodiac, numerology *comming soon*
+tarot, zodiac, numerology
+
 support server: https://discord.gg/z5Z4uzmED9
 
 more details: <a href ="https://top.gg/bot/786234973308715008"><img alt="Wheat" src="https://i.imgur.com/o31SePR.png" width='20px'></a>
