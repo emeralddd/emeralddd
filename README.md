@@ -15,10 +15,7 @@ more details: <a href ="https://top.gg/bot/786234973308715008"><img alt="Wheat" 
 
 invite: https://top.gg/bot/786234973308715008/invite/
 
-### founder of EMERALD UNIVERSE ###
-
-### VNC bot developer
-join with us: https://discord.gg/xgTv5yyweC
+### founder of OBZIRALD NETWORK (aka EMERALD UNIVERSE) ###
 
 **temeralddd#1385**, call me when you want
 
