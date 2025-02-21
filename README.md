@@ -1,20 +1,31 @@
-## Hi!
-<img src="https://emojis.slackmojis.com/emojis/images/1597609813/10031/60fps_parrot.gif?1597609813" width="30"/> ... I'm a normal individual developer ...
+## Hi!! I'm Tung Lam!
 
-### favorite languages
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+### But you can call me Austin!
+
+I'm a CS student at RMIT (grad. in 2026). I'm learning to be a software developer. I also find out more in cyber security.
+
+You can contact me via email me@tunglamnguyenkhac.com.
+
+### I can work with 
+
+#### Languages
 
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
+#### Web Develop
+
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+
 ### Wheat Discord Bot 
-tarot, zodiac, numerology
 
-support server: https://discord.gg/z5Z4uzmED9
+I'm a creator of __Wheat__ (https://wheatbot.xyz) - a Discord bot can pick Tarot card, Zodiac Signs, Numerology, ... in Vietnamese!
 
-more details: <a href ="https://top.gg/bot/786234973308715008"><img alt="Wheat" src="https://i.imgur.com/o31SePR.png" width='20px'></a>
+Support: https://www.wheatbot.xyz/support
 
-invite: https://wheatbot.xyz/invite
+See it on Top.gg: https://top.gg/bot/786234973308715008
 
-### founder of OBZIRALD NETWORK (aka EMERALD UNIVERSE) ###
+Invite now: https://wheatbot.xyz/invite
 
-tks, psymerald
+### EMERALD UNIVERSE (OBZIRALD NETWORK) ###
+
+Thank you!
