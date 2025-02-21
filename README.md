@@ -2,19 +2,23 @@
 
 ### But you can call me Austin!
 
-I'm a CS student at RMIT (grad. in 2026). I'm learning to be a software developer. I also find out more in cyber security.
+I'm a CS student at RMIT (grad. in 2026). I'm learning to be a software developer. I also find out more about cyber security.
 
 You can contact me via email me@tunglamnguyenkhac.com.
 
 ### I can work with 
 
-#### Languages
+#### Language
 
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+[![](https://skillicons.dev/icons?i=c,cpp,js,nodejs)](https://skillicons.dev)
 
-#### Web Develop
+#### Web Development
 
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+[![](https://skillicons.dev/icons?i=html,css,react,express)](https://skillicons.dev)
+
+#### Database
+
+[![](https://skillicons.dev/icons?i=mysql,sqlite,mongo)](https://skillicons.dev)
 
 ### Wheat Discord Bot 
 
@@ -26,6 +30,6 @@ See it on Top.gg: https://top.gg/bot/786234973308715008
 
 Invite now: https://wheatbot.xyz/invite
 
-### EMERALD UNIVERSE (OBZIRALD NETWORK) ###
+### Thank you! ###
 
-Thank you!
+From all creatures in Emerald Universe (Obzirald Network) ^^
