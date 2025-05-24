@@ -10,11 +10,11 @@ You can contact me via email me@tunglamnguyenkhac.com.
 
 #### Language
 
-[![](https://skillicons.dev/icons?i=c,cpp,js,nodejs)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,js,java,python)](https://skillicons.dev)
 
 #### Web Development
 
-[![](https://skillicons.dev/icons?i=html,css,react,express)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,react,express,nodejs)](https://skillicons.dev)
 
 #### Database
 
