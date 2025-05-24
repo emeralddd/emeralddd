@@ -1,6 +1,6 @@
 ## Hi!! I'm Tung Lam!
 
-### But you can call me Austin!
+### But you can call me Austin (or Eme, Emerald, Lục Bảo)!
 
 I'm a CS student at RMIT (grad. in 2026). I'm learning to be a software developer. I also find out more about cyber security.
 
