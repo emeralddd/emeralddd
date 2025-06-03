@@ -2,7 +2,7 @@
 
 ### But you can call me Austin (or Eme, Emerald, Lục Bảo)!
 
-I'm a CS student at RMIT (grad. in 2026). I'm learning to be a software developer. I also find out more about AI&ML and a bit of cyber security.
+I'm a CS student at RMIT (grad. in 2026). I'm learning to be a software developer. I also want to research more about AI&ML and a bit of cybersecurity.
 
 You can contact me via email me@tunglamnguyenkhac.com.
 
